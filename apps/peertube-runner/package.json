@@ -9,7 +9,7 @@
   },
   "license": "AGPL-3.0",
   "dependencies": {
-    "follow-redirects": "1.15.3"
+    "follow-redirects": "1.15.4"
   },
   "devDependencies": {
     "@commander-js/extra-typings": "^10.0.3",
