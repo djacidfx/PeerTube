@@ -117,7 +117,7 @@
     "primeng": "^17.3.1",
     "raw-loader": "^4.0.2",
     "rxjs": "^7.3.0",
-    "sanitize-html": "^2.1.2",
+    "sanitize-html": "^2.12.1",
     "sass": "^1.58.1",
     "sass-loader": "^14.1.1",
     "sha.js": "^2.4.11",
